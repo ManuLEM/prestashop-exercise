@@ -1,0 +1,1139 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"des",
+				"destCursor"
+			],
+			[
+				"city",
+				"cityName"
+			],
+			[
+				"ci",
+				"cityName"
+			],
+			[
+				"hote",
+				"hotels"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"has",
+				"hashtagsList"
+			],
+			[
+				"ha",
+				"hashtagsList"
+			],
+			[
+				"CRE",
+				"createElement"
+			],
+			[
+				"pop",
+				"popup"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"po",
+				"popup"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"appe",
+				"appendChild"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"twitte",
+				"twitterListsDOM"
+			],
+			[
+				"add",
+				"addEvent"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"get",
+				"get	Get Elements"
+			],
+			[
+				"open",
+				"openForce"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"ths",
+				"this"
+			],
+			[
+				"process",
+				"processText"
+			],
+			[
+				"getElem",
+				"getElementById"
+			],
+			[
+				"getEl",
+				"getElementById"
+			],
+			[
+				"follow",
+				"followers"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"setAttr",
+				"setAttribute"
+			],
+			[
+				"retwee",
+				"retweet"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"addEvent",
+				"addEventListener"
+			],
+			[
+				"callBa",
+				"callbackURL"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"outer",
+				"outerHeight	.outerHeight()"
+			],
+			[
+				"e",
+				"e14646"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"offs",
+				"offset	.offset()"
+			],
+			[
+				"ea",
+				"each	.each()"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"scroll",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"offse",
+				"offset	.offset()"
+			],
+			[
+				"of",
+				"offset	.offset()"
+			],
+			[
+				"each",
+				"each	$.each()"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"IN",
+				"inline-block"
+			],
+			[
+				"PAD",
+				"padding-left"
+			],
+			[
+				"r",
+				"rgb"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"pro",
+				"projects"
+			],
+			[
+				"about",
+				"about"
+			],
+			[
+				"FON",
+				"font-family"
+			],
+			[
+				"langu",
+				"language"
+			],
+			[
+				"lang",
+				"language"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"proje",
+				"project"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"si",
+				"siblings	.siblings()"
+			],
+			[
+				"end",
+				"endsection"
+			],
+			[
+				"BOR",
+				"border-right"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"teammate_",
+				"teammate_project"
+			],
+			[
+				"mouse",
+				"mouseover	.mouseover()"
+			],
+			[
+				"lan",
+				"language"
+			],
+			[
+				"de",
+				"deg"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fa-re",
+				"fa-retweet"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"txt",
+				"text-align"
+			],
+			[
+				"var",
+				"var_dump"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controllers/front/LookbookController.php",
+			"settings":
+			{
+				"buffer_size": 399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "themes/default-bootstrap/lookbook.tpl",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"comm-",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"comm-block",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"comm",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 262.0,
+		"history":
+		[
+			"\"/home/manuel/development/Accor-Big_Data/ETL/workflow.py\"",
+			"exec \"/home/manuel/development/Accor-Big_Data/ETL/workflow.py\"",
+			"exec /home/manuel/development/Accor-Big_Data/ETL/workflow.py",
+			"-u /home/manuel/development/Accor-Big_Data/ETL/workflow.py",
+			"/home/manuel/development/Accor-Big_Data/ETL/workflow.py",
+			"python -u /home/manuel/development/Accor-Big_Data/ETL/workflow.py",
+			"python -u \"/home/manuel/development/Accor-Big_Data/ETL/workflow.py\"",
+			"python -u \"/home/manuel/development/Accor-Big Data/ETL/workflow.py\"",
+			"python",
+			"python \"workflow.py\"",
+			"python workflow.py",
+			"python -u \"/home/manuel/development/Accor-Big Data/ETL/workflow.py\"",
+			"python \"/home/manuel/development/Accor-Big Data/ETL/workflow.py\"",
+			"python /home/manuel/development/Accor-Big Data/ETL/workflow.py",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/manuel/development/prestashop",
+		"/home/manuel/development/prestashop/js"
+	],
+	"file_history":
+	[
+		"/home/manuel/.config/sublime-text-3/Packages/Theme - Brogrammer/Prefs/icon_php.tmPreferences",
+		"/home/manuel/.config/sublime-text-3/Packages/Theme - Brogrammer/Langs/SVG.tmLanguage",
+		"/home/manuel/.config/sublime-text-3/Packages/Theme - Brogrammer/Prefs/icon_svg.tmPreferences",
+		"/home/manuel/development/prestashop/cache/class_index.php",
+		"/home/manuel/.config/sublime-text-3/Packages/Theme - Brogrammer/Prefs/icon_html.tmPreferences",
+		"/home/manuel/development/prestashop/config/defines.inc.php",
+		"/home/manuel/.config/sublime-text-3/Packages/Theme - Brogrammer/Scheme/Seti.tmTheme",
+		"/home/manuel/.config/sublime-text-3/Packages/Theme - Brogrammer/Brogrammer.sublime-theme",
+		"/home/manuel/.config/sublime-text-3/Packages/Theme - Brogrammer/brogrammer.tmTheme",
+		"/etc/odbcinst.ini",
+		"/etc/odbc.ini",
+		"/home/manuel/development/Accor-Big_Data/regions.json",
+		"/home/manuel/development/Accor-Big_Data/cities.json",
+		"/opt/cloudera/impalaodbc/lib/64/cloudera.impalaodbc.ini",
+		"/home/manuel/development/Accor-Big Data/ETL/workflow.py",
+		"/home/manuel/.config/sublime-text-3/Packages/User/launch-ETL.sublime-build",
+		"/home/manuel/.config/sublime-text-3/Packages/User/jps.sublime-build",
+		"/home/manuel/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/manuel/.bashrc",
+		"/home/manuel/development/Qowala-live/public/js/mainSidebarScript.js",
+		"/home/manuel/Bureau/accor/ADM_CREATE_TABLE_WSF_20160118.hql.txt",
+		"/home/manuel/development/Qowala-live/views/home/dashboard.html",
+		"/home/manuel/development/Qowala-live/lib/twitter.js",
+		"/home/manuel/development/Qowala-live/lib/users.js",
+		"/home/manuel/development/Qowala-live/public/css/style.css",
+		"/home/manuel/development/Qowala-live/node_modules/twit/lib/oarequest.js",
+		"/home/manuel/development/Qowala-live/public/js/main.js",
+		"/home/manuel/development/Qowala-live/lib/socket.js",
+		"/home/manuel/development/Qowala-live/public/js/messages.js",
+		"/home/manuel/development/Qowala-live/public/js/messagesColumnScript.js",
+		"/home/manuel/.config/sublime-text-3/Packages/User/XML.sublime-settings",
+		"/home/manuel/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/manuel/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/manuel/.config/sublime-text-3/Packages/User/JavaScript.sublime-settings",
+		"/home/manuel/.cache/.fr-F2Vbxk/brogrammer-theme-master/brogrammer.tmTheme",
+		"/home/manuel/development/Qowala-live/views/layout.html",
+		"/home/manuel/.cache/.fr-uYXDhz/Next.tmTheme",
+		"/home/manuel/.config/sublime-text-3/Packages/Theme - Brogrammer/+res/Ext/Python.sublime-settings",
+		"/home/manuel/.config/sublime-text-3/Packages/Theme - Brogrammer/+res/Ext/HTML.sublime-settings",
+		"/home/manuel/.config/sublime-text-3/Packages/Theme - Brogrammer/+res/Ext/Ruby.sublime-settings",
+		"/home/manuel/development/Qowala-live/node_modules/karma/lib/events.js",
+		"/home/manuel/development/Qowala-live/changelog.md",
+		"/home/manuel/Bureau/questions_julien.txt",
+		"/home/manuel/development/Qowala-live/.gitignore",
+		"/home/manuel/development/Qowala-live/public/js/messagesDisplayScript.js",
+		"/home/manuel/development/Qowala-live/model/usersModel.js",
+		"/home/manuel/development/Qowala-live/controllers/dashboard.js",
+		"/home/manuel/development/Qowala-live/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/events.js",
+		"/home/manuel/development/Qowala-live/views/home/user.html",
+		"/home/manuel/development/Qowala-live/config/twitter.json",
+		"/home/manuel/development/Qowala-live/routes.js",
+		"/home/manuel/development/Qowala-live/node_modules/passport-twitter/node_modules/passport-oauth1/lib/strategy.js",
+		"/home/manuel/.config/sublime-text-3/Cache/Theme - Brogrammer/brogrammer.tmTheme.cache",
+		"/media/manuel/4E6F1FDC6DB36E87/Users/Manuel/Desktop/Packages/User/Preferences.sublime-settings",
+		"/media/manuel/4E6F1FDC6DB36E87/Users/Manuel/Desktop/Packages/Theme - Brogrammer/Scheme/Seti.tmTheme",
+		"/media/manuel/Windows USB/syslinux/boot.cat",
+		"/home/manuel/development/portfolio/database/migrations/2015_04_23_014508_language_parent_and_percentage.php",
+		"/home/manuel/development/portfolio/database/migrations/2015_07_02_164506_github_link.php",
+		"/home/manuel/development/portfolio/app/Http/Controllers/HomeController.php",
+		"/home/manuel/development/portfolio/resources/views/skills.blade.php",
+		"/home/manuel/development/portfolio/config/mail.php",
+		"/home/manuel/development/portfolio/resources/views/contact.blade.php",
+		"/home/manuel/Bureau/possible_quotes.txt",
+		"/home/manuel/development/portfolio/resources/views/emails/general.blade.php",
+		"/home/manuel/development/portfolio/.env",
+		"/home/manuel/development/new_guitars/.env",
+		"/home/manuel/development/new_guitars/config/mail.php",
+		"/home/manuel/development/portfolio/resources/views/portfolio.blade.php",
+		"/home/manuel/development/new_guitars/app/Http/Controllers/HomeController.php",
+		"/home/manuel/development/portfolio/resources/views/about.blade.php",
+		"/home/manuel/development/portfolio/public/js/tweets.js",
+		"/home/manuel/development/portfolio/resources/views/partials/languages.blade.php",
+		"/tmp/fz3temp-1/style.css",
+		"/home/manuel/development/portfolio/resources/views/home.blade.php",
+		"/home/manuel/development/portfolio/public/js/shuffle.js",
+		"/home/manuel/development/portfolio/resources/views/layout.blade.php",
+		"/home/manuel/development/portfolio/app/Models/Language.php",
+		"/home/manuel/development/portfolio/public/css/tweets.css",
+		"/home/manuel/development/portfolio/resources/views/partials/project.blade.php",
+		"/home/manuel/development/portfolio/app/Models/Project.php",
+		"/tmp/fz3temp-1/page.php",
+		"/home/manuel/Bureau/questions.txt",
+		"/home/manuel/development/portfolio/app/Models/Notion.php",
+		"/tmp/fz3temp-1/onepage.php",
+		"/tmp/fz3temp-1/vc_gallery.php",
+		"/tmp/fz3temp-1/style 2.css",
+		"/home/manuel/development/new_guitars/app/Http/Controllers/GuitarController.php",
+		"/home/manuel/development/new_guitars/app/Http/routes.php",
+		"/home/manuel/development/portfolio/config/filesystems.php",
+		"/tmp/fz3temp-1/.env",
+		"/home/manuel/development/portfolio/database/migrations/2015_04_21_122513_build_schema.php",
+		"/home/manuel/development/portfolio/database/migrations/2015_04_24_011146_join_teammates.php",
+		"/home/manuel/development/portfolio/database/migrations/2015_04_24_005234_join_tables.php",
+		"/home/manuel/development/new_guitars/database/migrations/2014_12_19_145604_database_setup.php",
+		"/home/manuel/development/portfolio/resources/views/partials/description.blade.php",
+		"/home/manuel/development/chanel-back/app/models/Category.php",
+		"/home/manuel/development/new_guitars/database/migrations/2015_03_05_223750_meta_description.php",
+		"/home/manuel/development/new_guitars/app/Http/Controllers/AdminController.php",
+		"/home/manuel/development/new_guitars/public/css/style.css",
+		"/home/manuel/development/siteV2/js/main.js",
+		"/home/manuel/development/portfolio/composer.json",
+		"/home/manuel/development/portfolio/public/css/style.css",
+		"/home/manuel/development/siteV2/css/style.css",
+		"/home/manuel/development/portfolio/config/ttwitter.php",
+		"/home/manuel/development/siteV2/includes/tweets.php",
+		"/home/manuel/development/portfolio/config/app.php",
+		"/home/manuel/development/siteV2/index.php",
+		"/home/manuel/development/new_guitars/resources/views/home/homepage.blade.php",
+		"/home/manuel/development/new_guitars/app/Models/Caracteristic.php",
+		"/home/manuel/development/portfolio/app/Models/Api.php",
+		"/home/manuel/development/portfolio/app/Models/Teammate.php",
+		"/home/manuel/development/new_guitars/app/Models/Guitar.php",
+		"/home/manuel/development/portfolio/app/Language.php",
+		"/home/manuel/development/new_guitars/app/Models/Partner.php",
+		"/home/manuel/development/new_guitars/app/Models/Review.php",
+		"/home/manuel/development/portfolio/app/Http/Controllers/Controller.php",
+		"/home/manuel/development/portfolio/app/Http/Controllers/WelcomeController.php",
+		"/home/manuel/development/portfolio/config/database.php",
+		"/home/manuel/development/portfolio/resources/lang/fr/pagination.php",
+		"/home/manuel/development/community/app/filters.php",
+		"/home/manuel/development/portfolio/app/Providers/RouteServiceProvider.php",
+		"/home/manuel/development/portfolio/app/Providers/AppServiceProvider.php",
+		"/home/manuel/development/community/app/routes.php",
+		"/home/manuel/development/community/app/lang/en/reminders.php",
+		"/home/manuel/.local/share/Trash/files/2014_10_12_000000_create_users_table.php",
+		"/home/manuel/development/portfolio/index.html",
+		"/home/manuel/development/live_tv/routes.js",
+		"/home/manuel/.cache/.fr-dW1j2k/Brogrammer.sublime-theme"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"<current file>",
+			"/home/manuel/development/Qowala-live/",
+			"/home/manuel/development/Qowala-live/public/js",
+			"",
+			"/home/manuel/development/new_guitars/",
+			"/home/manuel/development/new_guitars",
+			"/home/manuel/development/",
+			"/home/manuel/development/community/app",
+			"/home/manuel/development"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dev",
+			"customer",
+			"initContent",
+			"type",
+			"init",
+			"para",
+			"-",
+			"vit",
+			" -",
+			"\nPR\nPE\nPI\nRJ\nRN\nRS\nRO",
+			"AC\nAL\nAP\nAM",
+			"SC\nSP\nSE\nTO",
+			"A\nCE\nDF\nES\nGO\nMA\nMT\nMS\nMG\nPA\nPB",
+			"\"\"",
+			"code",
+			"  ",
+			".svg",
+			"svg",
+			"\",",
+			"'",
+			"',",
+			", ",
+			"=",
+			"LD_PRELOAD",
+			"=",
+			"ldap_",
+			"()",
+			"cur",
+			":medium",
+			"35s",
+			"generateHashtagsList",
+			"hashtagsList",
+			"this.hashtagsList",
+			"this.hashtags",
+			"DISPLAY",
+			"HASHTAG",
+			"list",
+			"20",
+			"popup",
+			"image",
+			"tweetC",
+			":after",
+			"image",
+			"12px",
+			"hashtag-delete-ic",
+			"img",
+			"buttonOpenNotificationPanel",
+			"this.isNotificationPanelOpen",
+			"this.notificationsCounter",
+			"notificationsCounter",
+			"this.notificationCount",
+			"this.isMessageEditionPanelOpen",
+			"this.notificationPanel",
+			"NotificationPanel",
+			"notificationPanel",
+			"NotificationPanel",
+			"notificationPanel",
+			"NotificationPanel",
+			"notificationPanel",
+			"NotificationPanel",
+			"notificationPanel",
+			"messageEditionPanel",
+			"this.messageEditionPanel",
+			"toggleNotificationPanel",
+			"opennotificationpanel",
+			"openMessageEdition",
+			"img",
+			"largeImagePopup",
+			"height",
+			"Height",
+			"height",
+			"E S",
+			"SUDESTE",
+			"\n",
+			"Size",
+			"size",
+			"largeImagePopup",
+			"search",
+			"_chooseCompletion",
+			"delete",
+			"family",
+			"droid_sansregular",
+			"tweets-column-panel-list-message",
+			"newTweetColumnImageSwitch",
+			"listChoiceButton",
+			"'Display",
+			"Display",
+			"generateHashtagsList",
+			"hashtag",
+			"left",
+			"box-shadow",
+			"deleteColumnButton",
+			"this.choices[i]",
+			"hashtag",
+			"26px",
+			"enableImages",
+			"newTweetColumnImageSwitch",
+			"enableImages",
+			"newTweetColumnImageSwitch",
+			"images",
+			"imagesCheckbox",
+			"newTweetColumnImageSwitchInput",
+			"SECOND",
+			"newTweetColumnImageSwitchInput",
+			"newTweetColumnImageSwitchLabel",
+			"second",
+			"\n    -webkit-backface-visibility: hidden;\n    backface-visibility: hidden;",
+			"delete",
+			"translateZ",
+			"delete",
+			".tweets-column-panel-list",
+			"30px",
+			"bbb",
+			"active",
+			"generateHashtagsList",
+			"trackTag",
+			"twitterListsDOM",
+			"generateColumnTwitterLists",
+			"input[type=\"text\"].tagInput",
+			"hashtagTrackInput",
+			"Input",
+			"twitterListsDOM",
+			"that",
+			"tweets-column-panel-list-twitterLists",
+			"hashtagsInput",
+			"hashtagTrackInput",
+			"keyword",
+			"operator"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"70,70,70",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controllers/front/LookbookController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								399,
+								399
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "themes/default-bootstrap/lookbook.tpl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Smarty/Syntaxes/Smarty.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 334.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "Packages/User/launch-ETL.sublime-build",
+	"project": "prestashop.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"even",
+				"node_modules/karma/lib/events.js"
+			],
+			[
+				"oareque",
+				"node_modules/twit/lib/oarequest.js"
+			],
+			[
+				"events",
+				"node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/lib/events.js"
+			],
+			[
+				"eve",
+				"node_modules/karma/lib/events.js"
+			],
+			[
+				"message",
+				"public/js/messagesColumnScript.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/development/Accor-Big_Data/accor-data.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 343.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
